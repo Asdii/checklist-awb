@@ -1,0 +1,14 @@
+#
+#
+# Documento de ayuda
+#
+#
+#
+#En caso de que el botón "Obtener información" en el módulo "Conversor de divisas" diga "Error al obtener información", por favor intentar lo siguiente:
+#
+#1.- Dirigase a la siguiente URL: https://cors-anywhere.herokuapp.com/corsdemo
+#2.- Haga click en el botón "Request temporary access to the demo server"
+#3.- Espere a que aparezca el mensaje "You currently have temporary access to the demo server."
+#4.- Intente nuevamente cargar las divisas en https://asdii.github.io/checklist-awb/
+#
+#Si lo anterior no funcionó, por favor enviar un correo a esta dirección indicando el problema: joaquinherrera2016@gmail.com
